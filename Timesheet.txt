@@ -1,0 +1,37 @@
+21/08/2015
+
+Time in class on Monday and Friday spent developing class structure of moving platforms, to be the foundation of animations.
+
+?
+
+28/08/2015
+
+Class-time on creating applet itself, and making double buffered platform movement. Started player's body (a square) and making square fall down.
+
+ 
+
+11/09/2015
+
+Made design brief, and attempted to debug keyboard input, without success.
+
+?
+
+18/09/2015
+
+Finally fixed keyboard, and now have movement left and right, and jumping. Added parabolic jump movement.
+
+ 
+
+25/09/2015
+
+Started making level generation interface, and wrote a long long algorithm for the design write-up
+
+
+14/10/2015
+
+Wrote user manual and test procedures. Made basic level generator that just creates a veritcal tower of platforms.
+
+
+23/10/2015
+
+Finished level generator, made a reset button, made "Time survived" counter, added ESC to reset game, and wrote a million code comments.

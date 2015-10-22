@@ -1,0 +1,18 @@
+
+The jumping functionality was tested quite thoroughly before it worked.
+
+The first phase was receiving input, which was tested quite simply:
+First I set the program to run the movement actions without waiting for input,
+so that I knew the player would move properly.
+Then I set up the player to wait for keyboard input, and ran the program, but the player wouldn't move.
+I solved the issue which related to focus and then tested again.
+It solved the problem and the player was responding perfect to keyboard input.
+
+The second phase was adding jumping in addition to the simple left and right movement.
+Input was working fine and the jump animated well after my first execution of the program.
+Three variables affect the controls of the jump, 
+-one is how fast you are moving at the start of a jump, 
+-one is how quickly you are pulled back into a fall, 
+-and one is air resistance which combined with the gravity determines how fast you end up falling.
+I just experimented with the values, and since I knew what they do I was able to easily interpret the movement 
+and over several executions, work out the ideal settings for each.

@@ -1,0 +1,29 @@
+
+This project is an acceptable base for this format of game.
+
+I used principles of OOP to make my code reusable and extendible, 
+which means that although deeper functionality is missing from the project,
+it would be trivial to implement.
+
+I had brief difficulty with keyboard input but when I finally managed to follow instructions given,
+it behaved as expected.
+
+There are only two things that I would change about this project.
+First I would separate the Applet code from the code defining 
+the various game objects by making a separate .java class.
+Second I would make platforms not on the screen detach from the player:
+currently the player protects their platform from being garbage-collected.
+By testing the player's platform location I could make the game actually challenging.
+
+In fact the original design said that touching the top of the screen would be an end condition,
+which is not in any way implemented here.
+The original design also suggested variety in platforms, and a collectible scoring system.
+This would mainly involve creating modified subclasses of Platform, which would not be challenging, 
+but isn't a major extension in terms of the software and algorithm. 
+(although it is interesting how trivial extensions to the code can provide the variety that would
+make this an interesting, playable game.)
+
+Through this project I have learned about the Java environment, and how Java achieves
+its graphical interfacing requirements using interfaces and adapter classes.
+This is a very eye-opening contrast to the C-Win32 graphics api which is much more focussed on
+functional programming rather than adaptable object oriented approaches.

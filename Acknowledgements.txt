@@ -1,0 +1,10 @@
+
+The BlueJ template for an AWT Applet was used but beyond that all other classes and code within, is completely original.
+
+Learning resources were primarily the Oracle documents, Stack Overflow questions, and various open tutorial sites on the Web.
+
+http://docs.oracle.com/javase/8
+http://stackoverflow.com/questions/tagged/java
+
+The inspiration for the game was primarily "Bouncedown" by Jagex, which was also made in Java.
+All of the basic functionality presented in this game is already available in Bouncedown.

@@ -1,0 +1,13 @@
+
+Fall
+
+Press space bar to start the game initially.
+Control the little square with A and D.
+While you stand on a platform you will gain height.
+When you start to get too high, move your player off and try to land on a lower platform.
+You can move left and right while falling.
+Avoid falling off the bottom of the screen, or floating away or you will have to restart.
+
+Jump to gain a little bit of height, using W, but most drops should be possible without this.
+
+If you fall off the screen press escape to restart instantly.
